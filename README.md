@@ -2,6 +2,6 @@
 ## Katelyn Kunzmann, ..., ... ##
 
 Data metrics we are using:
-* Walkability/trails
+* Walkability - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
 * Swimming/pools/river quality 
 * Bike trails/markers.
