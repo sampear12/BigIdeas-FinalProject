@@ -1,5 +1,5 @@
 # Final Project - Best Neighborhood for a Triathlon ###
-# Group: I forget.... it's Henry, Kaitlyn, and Samika's group (36) #
+# Group: I forget.... it's Henry, Katelyn, and Samika's group (36) #
 ## Katelyn Kunzmann, Samika Sanghvi, Henry Wilson ##
 
 We sought to look at three different Western Pennsylvania Regional Data Center data sets to determine what the best neighborhood in Pittsburgh would be to hold a triathalon in.
